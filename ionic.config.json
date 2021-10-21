@@ -1,7 +1,0 @@
-{
-  "name": "Drukkie",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
